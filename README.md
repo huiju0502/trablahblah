@@ -33,10 +33,26 @@
 |---|---|
 |![스크린샷 2023-07-31 오전 11 48 09](https://github.com/huiju0502/trablarblar/assets/133737044/5381ff48-5dc9-4f94-ad32-f68d8dd0b1b8)|![스크린샷 2023-07-31 오전 11 48 32](https://github.com/huiju0502/trablarblar/assets/133737044/e13ac3e0-589a-4e98-8c00-950d2f5b76ac)|
 
+|마이페이지 및 비밀번호 변경|탈퇴|
+|---|---|
+|![스크린샷 2023-07-31 오후 12 24 30](https://github.com/huiju0502/trablarblar/assets/133737044/1bba3162-c76b-40d9-9016-ce7e2dfabef8)|![스크린샷 2023-07-31 오후 12 24 43](https://github.com/huiju0502/trablarblar/assets/133737044/a3a1bacc-16a3-4d7e-8c4a-0753198e1ded)|
+
 |카테고리 관리창|
 |---|
 |![스크린샷 2023-07-31 오후 12 03 35](https://github.com/huiju0502/trablarblar/assets/133737044/105dbb9d-32bf-4561-b1e9-428aa9bf3d6d)|
 
-|수정폼|수정완료|
+|카테고리 수정|수정완료|
 |---|---|
 |![스크린샷 2023-07-31 오후 12 03 58](https://github.com/huiju0502/trablarblar/assets/133737044/967bb3ce-6bb3-4549-ba25-34e3dd2f9456)|![스크린샷 2023-07-31 오후 12 04 09](https://github.com/huiju0502/trablarblar/assets/133737044/5edeb13c-f584-4f7d-b939-59568b3000c1)|
+
+|게시글 작성|작성완료|
+|---|---|
+|![스크린샷 2023-07-31 오후 12 10 38](https://github.com/huiju0502/trablarblar/assets/133737044/f77360f8-40da-4a19-b985-6f8e16e170f0)|![스크린샷 2023-07-31 오후 12 11 01](https://github.com/huiju0502/trablarblar/assets/133737044/c11ab4ff-2028-451f-bbf1-2e9b9ef59954)|
+
+|게시글 수정|수정완료|
+|---|---|
+|![스크린샷 2023-07-31 오후 12 11 31](https://github.com/huiju0502/trablarblar/assets/133737044/54c9a0c4-ee52-45c0-a591-de18d2f24105)|![스크린샷 2023-07-31 오후 12 12 01](https://github.com/huiju0502/trablarblar/assets/133737044/cc575611-cba9-49ce-b614-2e5a6005e5f7)|
+
+|게시글 상세 및 댓글|
+|---|
+|![스크린샷 2023-07-31 오후 12 12 19](https://github.com/huiju0502/trablarblar/assets/133737044/65ba56f4-bc01-4aa7-8e97-c7a57acde70f)|
