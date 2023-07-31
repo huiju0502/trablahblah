@@ -33,3 +33,10 @@
 |---|---|
 |![스크린샷 2023-07-31 오전 11 48 09](https://github.com/huiju0502/trablarblar/assets/133737044/5381ff48-5dc9-4f94-ad32-f68d8dd0b1b8)|![스크린샷 2023-07-31 오전 11 48 32](https://github.com/huiju0502/trablarblar/assets/133737044/e13ac3e0-589a-4e98-8c00-950d2f5b76ac)|
 
+|카테고리 관리창|
+|---|
+|![스크린샷 2023-07-31 오후 12 03 35](https://github.com/huiju0502/trablarblar/assets/133737044/105dbb9d-32bf-4561-b1e9-428aa9bf3d6d)|
+
+|수정폼|수정완료|
+|---|---|
+|![스크린샷 2023-07-31 오후 12 03 58](https://github.com/huiju0502/trablarblar/assets/133737044/967bb3ce-6bb3-4549-ba25-34e3dd2f9456)|![스크린샷 2023-07-31 오후 12 04 09](https://github.com/huiju0502/trablarblar/assets/133737044/5edeb13c-f584-4f7d-b939-59568b3000c1)|
