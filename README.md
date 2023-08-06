@@ -1,7 +1,8 @@
-## trablarblar
+## trablahblah
 <p align="center">
-  <img src="https://github.com/huiju0502/trablarblar/assets/133737044/51f60afe-5719-49f1-9aef-0b55be5d8c89" width="500" height="200">
+  <img src="https://github.com/huiju0502/trablahblah/assets/133737044/6f120d91-55b1-4070-a909-c8d8b0e73506" width="500" >
 </p>
+
 
 ## 📝 개요
 - 여행 커뮤니티 게시판
@@ -42,7 +43,7 @@
 ## 🔍 미리보기
 |메인화면(비로그인)|메인화면(관리자 로그인)|
 |---|---|
-|![스크린샷 2023-07-31 오전 11 48 09](https://github.com/huiju0502/trablarblar/assets/133737044/5381ff48-5dc9-4f94-ad32-f68d8dd0b1b8)|![스크린샷 2023-07-31 오전 11 48 32](https://github.com/huiju0502/trablarblar/assets/133737044/e13ac3e0-589a-4e98-8c00-950d2f5b76ac)|
+|![스크린샷 2023-08-06 오후 11 37 34](https://github.com/huiju0502/trablahblah/assets/133737044/ef2b6ed9-ff95-443e-ad48-a3d4fa41288e)|![스크린샷 2023-08-06 오후 11 38 25](https://github.com/huiju0502/trablahblah/assets/133737044/7364ba10-bf10-4448-a6ed-5c7bc81119b2)|
 
 |마이페이지 및 비밀번호 변경|탈퇴|
 |---|---|
@@ -58,7 +59,7 @@
 
 |게시글 작성|작성완료|
 |---|---|
-|![스크린샷 2023-07-31 오후 12 10 38](https://github.com/huiju0502/trablarblar/assets/133737044/f77360f8-40da-4a19-b985-6f8e16e170f0)|![스크린샷 2023-07-31 오후 12 11 01](https://github.com/huiju0502/trablarblar/assets/133737044/c11ab4ff-2028-451f-bbf1-2e9b9ef59954)|
+|![스크린샷 2023-07-31 오후 12 10 38](https://github.com/huiju0502/trablarblar/assets/133737044/f77360f8-40da-4a19-b985-6f8e16e170f0)|![스크린샷 2023-08-06 오후 11 32 18](https://github.com/huiju0502/trablahblah/assets/133737044/e1ae5306-39ca-46be-9d94-8218ae41a54e)|
 
 |게시글 수정|수정완료|
 |---|---|
