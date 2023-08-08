@@ -147,7 +147,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
-<link href="<%=request.getContextPath()%>/image/trablarblarFavicon.png" rel="icon">
+<link href="<%=request.getContextPath()%>/image/trablahblahFavicon.png" rel="icon">
 </head>
 <body>
 <div class="container-md mt-3">
@@ -163,7 +163,7 @@
 	
 	<div class="container-fluid p-5 text-white text-center" style="background-color: #9CB9FF;">
 	
-	  <img src="<%=request.getContextPath()%>/image/trablarblar.png" height="150px">
+	  <img src="<%=request.getContextPath()%>/image/trablahblah.png" height="200px">
 	  <p>Resize this responsive page to see the effect!</p> 
 	</div>
 <br>
